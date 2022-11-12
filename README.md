@@ -1,6 +1,6 @@
 # DOCFabric Parachain - Substrate Cumulus Parachain
 
-Proyecto que implementa un parachain como concepto para almacenar en la Blockchain Contenido, en este sentido implementa un conjunto de estructurar para almacenar un conjunto de entidades. 
+Proyecto que implementa un parachain como concepto para almacenar en la Blockchain Contenido, en este sentido tiene un conjunto de funcionalidades para almacenar diversas entidades. 
 
 - Tipos de Contenido: Define la Metadata de los documentos que se almacenan en el repositorio.
 - Sitios: Entidad que contiene un conjunto de documentos.
