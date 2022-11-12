@@ -39,4 +39,12 @@ Run Collator (in Parachain base folder):
 	// Check Status of Blockchain of Parachain
 	https://polkadot.js.org/apps/?rpc=ws%3A%2F%2F127.0.0.1%3A8844#/chainstate	
 
+Extrinsics Created in Parachain
+
+![image](https://user-images.githubusercontent.com/1779865/201477153-7693cc7f-8fd5-40c7-a095-783fe0fb940f.png)
+
+Query data in Parachain 
+
+![image](https://user-images.githubusercontent.com/1779865/201477178-764e3739-9dc9-439d-9920-cd73e75d2376.png)
+
 
